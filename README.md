@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Somos o projeto de pesquisa EcoSniff do Instituto Federal de Ciencia e Tecnologia de Pernambuco
+### Desenvolvemos um nariz eletrônico capaz de fazer o monitoramento inteligente dos odores e gases gerados durante o processo de compostagem de resíduos orgânicos
 
 <!--
-**EcoSniff/EcoSniff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**juliadidra/juliadidra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+  Centro de pesquisa, IFPE
+
+- 🔭 Monitoramento dos gases em tempo real e de forma remota
+- 🌱 Integramos IOT e sustentabilidade 
+- ⚡ Curiosidade: grupo formado por 4 graduandas de Análise e desenvolvimento de sistemas
+
+
+## Contatos:
+
+<div>
+
+<a href="https://www.instagram.com/ecosniff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+</div>
